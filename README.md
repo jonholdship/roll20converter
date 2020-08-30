@@ -1,5 +1,5 @@
 # Roll20 Converter
-A quick python script to convert from the output of Giphygliff's Monster Maker to the Roll20 format.
+A quick python script to convert from the output of Giffyglyph's Monster Maker to the Roll20 format.
 
 ## Usage
  - Edit main.py so ```input_file``` points to your Monster Maker output and ```output_file``` points to your desired output
